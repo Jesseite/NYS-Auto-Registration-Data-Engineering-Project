@@ -7,7 +7,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #JSON URL
-url = "https://data.ny.gov/resource/w4pv-hbkt.json"
+#This URL will retrieve data for up to 9 million vehicles (sedans, SUVs, and pickups) with model years from 2000 onwards.
+url = "https://data.ny.gov/resource/w4pv-hbkt.json?$limit=5000000&record_type=VEH&registration_class=PAS&$where=model_year>2000"
 
 #Fetch data from the url
 response = requests.get(url)
