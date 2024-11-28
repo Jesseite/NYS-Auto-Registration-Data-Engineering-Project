@@ -2,7 +2,7 @@
 
 ## Information
 
-![image]()
+![image](https://github.com/Jesseite/WIP-End-to-End-DE-NY-Registrations/blob/main/images/Diagram.png)
 
 ## New York Government Data 
 Open NY provides public access to digital data for analysis. The New York Transportation Registrations dataset contains over 12 million records. You can refer to the link I provided below for more information.
@@ -33,9 +33,9 @@ This is a local PostgreSQL server. I recommend downloading PgAdmin which is a GU
 
 ## Microsoft PowerBI
 
-**** screenshot picture here link don't forget!****!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!dfsdtgwrtewrterfgdfgsdgtw4tw4tw4rtwe4r
+`NYS Auto Registration`
 
-`NYS Auto Registration - PowerBI`
+![image](https://github.com/Jesseite/WIP-End-to-End-DE-NY-Registrations/blob/main/images/Dashboard.png)
 
 
 
