@@ -8,6 +8,7 @@
 Open NY provides public access to digital data for analysis. The New York Transportation Registrations dataset contains over 12 million records. You can refer to the link I provided below for more information.
 
 https://data.ny.gov/
+
 https://data.ny.gov/Transportation/Vehicle-Snowmobile-and-Boat-Registrations/w4pv-hbkt/about_data
 
 ## Python
@@ -26,7 +27,7 @@ https://data.ny.gov/Transportation/Vehicle-Snowmobile-and-Boat-Registrations/w4p
 `docker-compose`
 
 ## MongoDB
-This is a local MongoDB server. I use MongoDBCompass which is a GUI for MongoDB
+I'm using a local MongoDB server along with MongoDB Compass, a graphical user interface for managing MongoDB.
 
 ## PostgreSQL
 This is a local PostgreSQL server. I recommend downloading PgAdmin which is a GUI for PostgreSQL.
