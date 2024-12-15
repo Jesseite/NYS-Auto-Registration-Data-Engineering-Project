@@ -13,7 +13,7 @@ https://data.ny.gov/Transportation/Vehicle-Snowmobile-and-Boat-Registrations/w4p
 
 ## Python
 ### Steps
-`insert_mongo` -> This script fetches vehicle data from the URL, which contains information up to 9 million vehicles with model years from 2000 onwards. It then inserts the fetched JSON data into MongoDB.
+`insert_mongo` -> This script fetches vehicle data from the URL, which contains information up to 5 million vehicles with model years from 2000 onwards. It then inserts the fetched JSON data into MongoDB.
 
 `transform_data` -> It transform the JSON data from MongoDB into a well-organized format using Pandas. This process includes removing unnecessary columns, modifying data types, and correcting any misspellings.
 
